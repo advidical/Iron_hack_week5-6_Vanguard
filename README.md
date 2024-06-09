@@ -1,4 +1,4 @@
-# Vanguard Data Analysis of Web New Portal
+# Vanguard Data Analysis of New Web Portal
 
 ### By Alex Lopez
 
